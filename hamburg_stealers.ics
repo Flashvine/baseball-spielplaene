@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NBSV Spielplan//DE
+X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:Spiel: Bremen Dockers vs Dortmund Wanderers
 DTSTART:20260411T190000
