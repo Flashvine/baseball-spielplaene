@@ -3,61 +3,61 @@ VERSION:2.0
 PRODID:-//NBSV Spielplan//DE
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs SG Jemgum/Wilhelmshaven
+SUMMARY:Spiel: Oldenburg Hornets vs SG Jemgum/Wilhelmshaven
 DTSTART:20260426T130000
 DTEND:20260426T150000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs SG Jemgum/Wilhelmshaven
+SUMMARY:Spiel: Oldenburg Hornets vs SG Jemgum/Wilhelmshaven
 DTSTART:20260426T153000
 DTEND:20260426T173000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs SG Bremerhaven/Stade
+SUMMARY:Spiel: Oldenburg Hornets vs SG Bremerhaven/Stade
 DTSTART:20260613T130000
 DTEND:20260613T150000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs SG Bremerhaven/Stade
+SUMMARY:Spiel: Oldenburg Hornets vs SG Bremerhaven/Stade
 DTSTART:20260613T153000
 DTEND:20260613T173000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Dohren Wild Farmers 3
+SUMMARY:Spiel: Oldenburg Hornets vs Dohren Wild Farmers 3
 DTSTART:20260620T130000
 DTEND:20260620T150000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Dohren Wild Farmers 3
+SUMMARY:Spiel: Oldenburg Hornets vs Dohren Wild Farmers 3
 DTSTART:20260620T153000
 DTEND:20260620T173000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Lüneburg Woodlarks
+SUMMARY:Spiel: Oldenburg Hornets vs Lüneburg Woodlarks
 DTSTART:20260711T130000
 DTEND:20260711T150000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Lüneburg Woodlarks
+SUMMARY:Spiel: Oldenburg Hornets vs Lüneburg Woodlarks
 DTSTART:20260711T153000
 DTEND:20260711T173000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Bremen Dockers 3
+SUMMARY:Spiel: Oldenburg Hornets vs Bremen Dockers 3
 DTSTART:20260829T130000
 DTEND:20260829T150000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Bremen Dockers 3
+SUMMARY:Spiel: Oldenburg Hornets vs Bremen Dockers 3
 DTSTART:20260829T153000
 DTEND:20260829T173000
 LOCATION:Chestnut Field\, Haareneschstr. 70\, 26121 Oldenburg

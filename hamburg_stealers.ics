@@ -3,61 +3,61 @@ VERSION:2.0
 PRODID:-//NBSV Spielplan//DE
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Dortmund Wanderers
+SUMMARY:Spiel: Hamburg Stealers vs Dortmund Wanderers
 DTSTART:20260411T190000
 DTEND:20260411T210000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Dortmund Wanderers
+SUMMARY:Spiel: Hamburg Stealers vs Dortmund Wanderers
 DTSTART:20260412T130000
 DTEND:20260412T150000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Untouchables Paderborn
+SUMMARY:Spiel: Hamburg Stealers vs Untouchables Paderborn
 DTSTART:20260502T190000
 DTEND:20260502T210000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Untouchables Paderborn
+SUMMARY:Spiel: Hamburg Stealers vs Untouchables Paderborn
 DTSTART:20260503T130000
 DTEND:20260503T150000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Bonn Capitals
+SUMMARY:Spiel: Hamburg Stealers vs Bonn Capitals
 DTSTART:20260509T180000
 DTEND:20260509T200000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Bonn Capitals
+SUMMARY:Spiel: Hamburg Stealers vs Bonn Capitals
 DTSTART:20260510T130000
 DTEND:20260510T150000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Hünstetten STORM
+SUMMARY:Spiel: Hamburg Stealers vs Hünstetten STORM
 DTSTART:20260530T190000
 DTEND:20260530T210000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Hünstetten STORM
+SUMMARY:Spiel: Hamburg Stealers vs Hünstetten STORM
 DTSTART:20260531T130000
 DTEND:20260531T150000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Cologne Cardinals
+SUMMARY:Spiel: Hamburg Stealers vs Cologne Cardinals
 DTSTART:20260606T190000
 DTEND:20260606T210000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spiel: Bremen Dockers vs Cologne Cardinals
+SUMMARY:Spiel: Hamburg Stealers vs Cologne Cardinals
 DTSTART:20260607T130000
 DTEND:20260607T150000
 LOCATION:Baseballfeld Langenhorst\, Langenhorst 4\, 22453 Hamburg
