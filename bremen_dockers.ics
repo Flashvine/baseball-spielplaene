@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NBSV Spielplan//DE
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Kiel Seahawks
+DTSTART:20260411T120000
+DTEND:20260411T140000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Kiel Seahawks
+DTSTART:20260411T153000
+DTEND:20260411T173000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Stealers 2
+DTSTART:20260501T120000
+DTEND:20260501T140000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Stealers 2
+DTSTART:20260501T153000
+DTEND:20260501T173000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Marines
+DTSTART:20260530T120000
+DTEND:20260530T140000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Marines
+DTSTART:20260530T153000
+DTEND:20260530T173000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Dohren Wild Farmers
+DTSTART:20260606T120000
+DTEND:20260606T140000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Dohren Wild Farmers
+DTSTART:20260606T153000
+DTEND:20260606T173000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Knights
+DTSTART:20260620T120000
+DTEND:20260620T140000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Knights
+DTSTART:20260620T153000
+DTEND:20260620T173000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Kiel Seahawks
+DTSTART:20260627T120000
+DTEND:20260627T140000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Kiel Seahawks
+DTSTART:20260627T153000
+DTEND:20260627T173000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Stealers 2
+DTSTART:20260718T120000
+DTEND:20260718T140000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiel: Bremen Dockers vs Hamburg Stealers 2
+DTSTART:20260718T153000
+DTEND:20260718T173000
+LOCATION:Fritz Schütt Stadion im Henschenbusch (BB)\, Richard-Jürgens We
+ g 40\, 28205 Bremen
+END:VEVENT
+END:VCALENDAR
