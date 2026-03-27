@@ -1,5 +1,6 @@
 import pandas as pd
 import requests
+import subprocess
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from icalendar import Calendar, Event
@@ -66,10 +67,11 @@ def erstelle_team_kalender(team, url, speicher_pfad):
         kalender = Calendar()
         kalender.add('prodid', '-//NBSV Spielplan//DE')
         kalender.add('version', '2.0')
+        kalender.add('X-WR-TIMEZONE', 'Europe/Berlin')
 
         for index, row in df.iterrows():
             event = Event()
-            event.add('summary', f"Spiel: Bremen Dockers vs {row['Gast']}")
+            event.add('summary', f"Spiel: {team} vs {row['Gast']}")
             
             datum_str = row['Datum']
             zeit_str = row['Zeit']
@@ -112,5 +114,30 @@ if __name__ == "__main__":
             url=config["url"], 
             speicher_pfad=voller_pfad
         )
+    
+    print("\n=== Lade geänderte Kalender zu GitHub hoch ===")
+    
+    try:
+        # 1. Alle geänderten .ics Dateien "vormerken"
+        subprocess.run(["git", "add", "*.ics"], check=True, cwd=skript_ordner)
+        
+        # 2. Eine Nachricht mit dem aktuellen Zeitstempel generieren
+        commit_msg = f"Auto-Update Spielpläne: {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+        
+        # 3. Den Commit erstellen
+        # (Wenn sich nichts geändert hat, wirft dieser Befehl einen Fehler, 
+        # den wir unten mit 'except' abfangen)
+        subprocess.run(["git", "commit", "-m", commit_msg], check=True, cwd=skript_ordner)
+        
+        # 4. Hochladen zu GitHub
+        subprocess.run(["git", "push"], check=True, cwd=skript_ordner)
+        
+        print("Upload erfolgreich!")
+        
+    except subprocess.CalledProcessError:
+        # Wenn sich an den .ics Dateien kein einziges Zeichen verändert hat, 
+        # schlägt 'git commit' fehl. Das ist aber gewollt, denn dann gibt 
+        # es auch nichts hochzuladen!
+        print("Keine neuen Änderungen an den Spielplänen. Nichts hochgeladen.")
         
     print("\n=== Alle Downloads abgeschlossen! ===")
